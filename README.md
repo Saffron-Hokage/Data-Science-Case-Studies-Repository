@@ -15,19 +15,21 @@ In this repository, you'll find a variety of case studies covering different dom
 
 ## Case Studies
 
-### [Case Study 1: Predicting Housing Prices](link_to_case_study_1)
+### [Case Study 1: Exploratory Data Analysis](link_to_case_study_1)
 
 Description: This project focuses on predicting housing prices using a dataset containing various features such as location, size, and amenities.
 
-### [Case Study 2: Customer Churn Prediction](link_to_case_study_2)
+### [Case Study 2: K Means Clustering](link_to_case_study_2)
 
 Description: In this case study, we explore customer churn prediction using a telecom dataset, aiming to identify factors influencing customer retention.
 
-### [Case Study 3: Sentiment Analysis on Social Media Data](link_to_case_study_3)
+### [Case Study 3: Logistic_Regression](link_to_case_study_3)
 
 Description: This project involves sentiment analysis on social media data to classify user sentiments as positive, negative, or neutral.
 
-_(Add more case studies as you work on them)_
+### [Case Study 4: Multi Linear Regression](link_to_case_study_3)
+
+Description: This project involves sentiment analysis on social media data to classify user sentiments as positive, negative, or neutral.
 
 ## Getting Started
 
